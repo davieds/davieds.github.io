@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cnFyns.com/"/>
-  <updated>2016-08-10T08:09:03.000Z</updated>
+  <updated>2016-08-10T08:10:52.000Z</updated>
   <id>http://cnFyns.com/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://cnFyns.com/2016/08/10/hello-world/"/>
-    <id>http://cnFyns.com/2016/08/10/hello-world/</id>
-    <published>2016-08-10T08:09:26.095Z</published>
-    <updated>2016-08-10T08:09:03.000Z</updated>
+    <link href="http://cnFyns.com/2016/08/11/hello-world/"/>
+    <id>http://cnFyns.com/2016/08/11/hello-world/</id>
+    <published>2016-08-11T03:58:46.425Z</published>
+    <updated>2016-08-10T08:10:52.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -39,8 +39,36 @@
     
     </summary>
     
+      <category term="Test" scheme="http://cnFyns.com/categories/Test/"/>
+    
     
       <category term="Test" scheme="http://cnFyns.com/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>近日有感</title>
+    <link href="http://cnFyns.com/2016/08/11/%E8%BF%91%E6%97%A5%E6%9C%89%E6%84%9F/"/>
+    <id>http://cnFyns.com/2016/08/11/近日有感/</id>
+    <published>2016-08-11T03:51:29.000Z</published>
+    <updated>2016-08-11T03:58:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://macid.co/images/1.2/main-bg@2x.jpg" alt=""></p>
+<h2 id="MacID-for-Apple-Watch"><a href="#MacID-for-Apple-Watch" class="headerlink" title="MacID for Apple Watch"></a>MacID for Apple Watch</h2><p>MacID was created with Apple Watch in mind, long before it was even available.<br>MacID for Apple Watch is fast, beautiful, and best of all functional. Just like MacID for iOS, MacID for Apple Watch allows you to lock and unlock multiple Macs, control iTunes &amp; Spotify, and even start screensavers – right from your wrist.<br>Add the MacID Glance near the start of your Glances for super quick access and a quick look at how many Macs you have connected.</p>
+<p><img src="https://macid.co/images/1.2/top-down-mac@2x.jpg" alt="" title="MACID"></p>
+<h2 id="Compatibility"><a href="#Compatibility" class="headerlink" title="Compatibility"></a>Compatibility</h2><h3 id="MacID-requires-a-Mac-with-Bluetooth-LE-built-in-running-OS-X-10-10-or-newer"><a href="#MacID-requires-a-Mac-with-Bluetooth-LE-built-in-running-OS-X-10-10-or-newer" class="headerlink" title="MacID requires a Mac with Bluetooth LE built in running OS X 10.10 or newer,"></a>MacID requires a Mac with Bluetooth LE built in running OS X 10.10 or newer,</h3><p>and an iOS device with Bluetooth LE running iOS 8 or newer.</p>
+<p>MacBook 2015+<br>MacBook Air 2011+<br>MacBook Pro 2012+<br>Mac Mini 2011+<br>Mac Pro 2013+<br>iMac 2012+<br>iPhone 4S and newer<br>iPad (4th gen)<br>iPad mini &amp; iPad Air<br>iPod Touch (5th gen) and newer<br>Apple Watch<br>Please check your devices are capable before downloading MacID.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://macid.co/images/1.2/main-bg@2x.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;MacID-for-Apple-Watch&quot;&gt;&lt;a href=&quot;#MacID-for-Apple-Watch&quot; class=&quot;
+    
+    </summary>
+    
+    
+      <category term="感想" scheme="http://cnFyns.com/tags/%E6%84%9F%E6%83%B3/"/>
     
   </entry>
   
