@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cnFyns.com/"/>
-  <updated>2016-08-24T03:53:06.000Z</updated>
+  <updated>2016-09-12T05:48:21.000Z</updated>
   <id>http://cnFyns.com/</id>
   
   <author>
@@ -20,9 +20,24 @@
     <link href="http://cnFyns.com/2016/08/24/%E9%97%AE%E9%A2%98%E6%94%B6%E9%9B%86/"/>
     <id>http://cnFyns.com/2016/08/24/问题收集/</id>
     <published>2016-08-24T02:45:30.000Z</published>
-    <updated>2016-08-24T03:53:06.000Z</updated>
+    <updated>2016-09-12T05:48:21.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="问题收集"><a href="#问题收集" class="headerlink" title="问题收集"></a>问题收集</h1><h5 id="面试问题走一波："><a href="#面试问题走一波：" class="headerlink" title="面试问题走一波："></a>面试问题走一波：</h5><figure class="highlight excel"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line">微信如何搜索附近人</div><div class="line">模糊搜索和精确搜索</div><div class="line">即时通讯的UI布局，要是你做你会用多少个<span class="built_in">cell</span></div><div class="line">有没有直播经验</div><div class="line">最近的ipv6上架的问题 以及了解ipv6是什么</div><div class="line">消息机制了解么？你用它做过什么！</div><div class="line">iOS如何优化</div><div class="line">instuments用过哪些工具，如何测试核心动画性能</div><div class="line">沙盒机制</div><div class="line"> ffmpeg，opengl了解嘛</div><div class="line">如何收集APP异常信息（比如：崩溃、闪退等）</div><div class="line">离屏渲染了解么,了解的话说一下你一般是从哪几方面操作的</div><div class="line">了解<span class="built_in">GCD</span>的信号量机制么！能谈谈你对它的理解么！</div><div class="line">聊下RAC和MVVM，你对它的看法</div><div class="line">block底层实现</div><div class="line">响应链底的理解</div><div class="line">KVC和KVO</div><div class="line">lldb（gdb）常用的调试命令</div><div class="line">热更新</div><div class="line"><span class="built_in">GCD</span>实现原理</div></pre></td></tr></table></figure>
+    <content type="html"><![CDATA[<h1 id="问题收集"><a href="#问题收集" class="headerlink" title="问题收集"></a>问题收集</h1><h5 id="面试问题走一波："><a href="#面试问题走一波：" class="headerlink" title="面试问题走一波："></a>面试问题走一波：</h5><figure class="highlight excel"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line">微信如何搜索附近人</div><div class="line">模糊搜索和精确搜索</div><div class="line">即时通讯的UI布局，要是你做你会用多少个<span class="built_in">cell</span></div><div class="line">有没有直播经验</div><div class="line">最近的ipv6上架的问题 以及了解ipv6是什么</div><div class="line">消息机制了解么？你用它做过什么！</div><div class="line">iOS如何优化</div><div class="line">instuments用过哪些工具，如何测试核心动画性能</div><div class="line">沙盒机制</div><div class="line">ffmpeg，opengl了解嘛</div><div class="line">如何收集APP异常信息（比如：崩溃、闪退等）</div><div class="line">离屏渲染了解么,了解的话说一下你一般是从哪几方面操作的</div><div class="line">了解<span class="built_in">GCD</span>的信号量机制么！能谈谈你对它的理解么！</div><div class="line">聊下RAC和MVVM，你对它的看法</div><div class="line">block底层实现</div><div class="line">响应链底的理解</div><div class="line">KVC和KVO</div><div class="line">lldb（gdb）常用的调试命令</div><div class="line">热更新</div><div class="line"><span class="built_in">GCD</span>实现原理</div></pre></td></tr></table></figure>
+<script>(function(T,h,i,n,k,P,a,g,e){g=function(){P=h.createElement(i);a=h.getElementsByTagName(i)[0];P.src=k;P.charset="utf-8";P.async=1;a.parentNode.insertBefore(P,a)};T["ThinkPageWeatherWidgetObject"]=n;T[n]||(T[n]=function(){(T[n].q=T[n].q||[]).push(arguments)});T[n].l=+new Date();if(T.attachEvent){T.attachEvent("onload",g)}else{T.addEventListener("load",g,false)}}(window,document,"script","tpwidget","//widget.thinkpage.cn/widget/chameleon.js"))</script>
+<script>tpwidget("init", {
+    "flavor": "bubble",
+    "location": "WS10730EM8EV",
+    "geolocation": "disabled",
+    "position": "top-left",
+    "margin": "10px 10px",
+    "language": "zh-cht",
+    "unit": "c",
+    "theme": "chameleon",
+    "uid": "U6BFDDA6F4",
+    "hash": "63dc1e56531a53e5ec647d546d773c58"
+});
+tpwidget("show");</script>
+
 ]]></content>
     
     <summary type="html">
