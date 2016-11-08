@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cnFyns.com/"/>
-  <updated>2016-09-25T03:46:18.000Z</updated>
+  <updated>2016-11-08T08:43:54.000Z</updated>
   <id>http://cnFyns.com/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mac删除.svn文件</title>
+    <link href="http://cnFyns.com/2016/11/08/MAC%E5%88%A0%E9%99%A4-svn%E6%96%87%E4%BB%B6/"/>
+    <id>http://cnFyns.com/2016/11/08/MAC删除-svn文件/</id>
+    <published>2016-11-08T08:40:16.000Z</published>
+    <updated>2016-11-08T08:43:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Mac下删除-svn文件"><a href="#Mac下删除-svn文件" class="headerlink" title="Mac下删除.svn文件"></a>Mac下删除.svn文件</h1><figure class="highlight sqf"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">打开终端，cd ...命令进入到.svn所在的文件夹。</div><div class="line">输入：<span class="built_in">find</span> . -<span class="built_in">type</span> d -<span class="built_in">name</span> <span class="string">".svn"</span>|xargs rm -rf</div><div class="line">文件夹下的所有带有.svn的文件就全部删除了。</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Mac下删除-svn文件&quot;&gt;&lt;a href=&quot;#Mac下删除-svn文件&quot; class=&quot;headerlink&quot; title=&quot;Mac下删除.svn文件&quot;&gt;&lt;/a&gt;Mac下删除.svn文件&lt;/h1&gt;&lt;figure class=&quot;highlight sqf&quot;&gt;&lt;ta
+    
+    </summary>
+    
+    
+      <category term="Mac技巧" scheme="http://cnFyns.com/tags/Mac%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>逝年</title>
